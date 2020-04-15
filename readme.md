@@ -15,4 +15,7 @@ Link: https://sm-marketchecker.firebaseapp.com/
 - Make it prettier.
 - Other stuff eventually?
 
+Any feedback or suggestions are very much appreciated!
+Want to help out? Contact me on github, username: Danieljohansen97
+
 This application uses the fuzzwork and evemarketer API's.
