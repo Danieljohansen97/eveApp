@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(240, 235, 235);
+}
+
+h1 {
+    text-align: center;
+    color: grey;
+}
+
+h3 {
+    text-align: center;
+}
+
+#itemName {
+    border: 1px solid black;
+}
+
+.sinsTag {
+    color: rgb(48, 48, 48);
+}
+
+.tip {
+    text-align: center;
+}
