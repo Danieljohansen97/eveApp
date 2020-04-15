@@ -8,3 +8,5 @@ Link: https://sm-marketchecker.firebaseapp.com/
 - Make an Android application.
 - Add other helpful functionality.
 - Make it prettier.
+
+This application uses the fuzzwork and evemarketer API's.
