@@ -1,6 +1,0 @@
--add a value box where you can put in how many of the stuff you are buying if possible.
--Total volume m3.
-- Other stuff eventually?
-
-
----- make a mobile application out of it eventually :o

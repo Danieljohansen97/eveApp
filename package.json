@@ -1,0 +1,37 @@
+{
+  "name": "eveapp",
+  "version": "1.0.0",
+  "description": "Shows prices and calculates what the buyback buys it for",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danieljohansen97/eveApp.git"
+  },
+  "author": "Daniel Johansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danieljohansen97/eveApp/issues"
+  },
+  "homepage": "https://github.com/Danieljohansen97/eveApp#readme",
+  "dependencies": {
+    "@tarekraafat/autocomplete.js": "^7.2.0",
+    "axios": "^0.19.2",
+    "firebase": "^7.14.2",
+    "jquery": "^3.5.1",
+    "lodash": "^4.17.15",
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "css-loader": "^3.5.3",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
